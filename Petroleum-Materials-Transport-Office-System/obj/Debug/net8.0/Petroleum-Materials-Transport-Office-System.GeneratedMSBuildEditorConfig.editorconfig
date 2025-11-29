@@ -1,0 +1,113 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Petroleum_Materials_Transport_Office_System
+build_property.RootNamespace = Petroleum_Materials_Transport_Office_System
+build_property.ProjectDir = C:\Users\user\source\repos\Petroleum-Materials-Transport-Office-System\Petroleum-Materials-Transport-Office-System\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\user\source\repos\Petroleum-Materials-Transport-Office-System\Petroleum-Materials-Transport-Office-System
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Accounts Management/Customers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHMgTWFuYWdlbWVudFxDdXN0b21lcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Accounts Management/Suppliers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWNjb3VudHMgTWFuYWdlbWVudFxTdXBwbGllcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Admin Panel/New User.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4gUGFuZWxcTmV3IFVzZXIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Admin Panel/System Logs.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4gUGFuZWxcU3lzdGVtIExvZ3MuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Admin Panel/User Management.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWRtaW4gUGFuZWxcVXNlciBNYW5hZ2VtZW50LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Finance/Expenses.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluYW5jZVxFeHBlbnNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Finance/Invoices.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluYW5jZVxJbnZvaWNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Finance/Payments.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluYW5jZVxQYXltZW50cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Finance/Reports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRmluYW5jZVxSZXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Login/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5cTG9naW4uY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Main Dashboard/Main Dashboard.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFpbiBEYXNoYm9hcmRcTWFpbiBEYXNoYm9hcmQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Master Lists/Drivers.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyIExpc3RzXERyaXZlcnMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Master Lists/Resources.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyIExpc3RzXFJlc291cmNlcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Master Lists/Stakeholders.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyIExpc3RzXFN0YWtlaG9sZGVycy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Master Lists/Vehicles.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTWFzdGVyIExpc3RzXFZlaGljbGVzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Orders Management/Orders Management.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcT3JkZXJzIE1hbmFnZW1lbnRcT3JkZXJzIE1hbmFnZW1lbnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/user/source/repos/Petroleum-Materials-Transport-Office-System/Petroleum-Materials-Transport-Office-System/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-5ixv7onby5
